@@ -1,0 +1,41 @@
+{% extends 'crawler/base.html' %}
+
+{% block content %}
+<div class="card">
+    <h2 class="page-header">Compare Contest Performance</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.non_field_errors }}
+        <table border="0" style="width: 100%;">
+        <tr>
+            <td colspan="4">
+            {{ form.user_1.errors }}
+            <label for="{{ form.user_1.id_for_label }}"></label>
+            <input type="text" class="form-control"  placeholder="Handle 1" name='user_1' maxlength="100" required id=" {{ form.user_1.id_for_label }} ">
+            </td>
+            <td colspan="4">
+                    {{ form.user_2.errors }}
+                    <label for="{{ form.user_2.id_for_label }}"></label>
+                    <input type="text" class="form-control"  placeholder="Handle 2" name='user_2' maxlength="100" required id=" {{ form.user_2.id_for_label }} ">
+                </td>
+        </tr>
+        <tr>
+        <td colspan="4">
+            {{ form.contest_code.errors }}
+            <label for="{{ form.contest_code.id_for_label }}"></label>
+            <input type="text" class="form-control"  placeholder="Contest Code" name="contest_code" maxlength="100" required id="{{ form.contest_code.id_for_label }}">
+        </td>
+        <td colspan="4">
+        <div class="fieldWrapper">
+            <button type="submit" class="btn btn-outline-info btn-lg" >Submit</button>
+        </div>
+        </td>
+        </tr>
+        </table>
+    </br>
+</form>
+<div id="output">
+    {{ problems }}
+</div>
+</div>
+{% endblock %}

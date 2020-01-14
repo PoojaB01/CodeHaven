@@ -1,0 +1,55 @@
+{% extends 'crawler/base.html' %}
+
+{% block content %}
+<div class="card">
+<h2 class="page-header">Get Code</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.non_field_errors }}
+        <table  colspan="4">
+        <td>
+        <table border="0" style="width: 100%;">
+        <tr>
+            <td colspan="4">
+            <div class="fieldWrapper">
+            {{ form.user.errors }}
+            <label for="{{ form.user.id_for_label }}"></label>
+            <br>
+                <input type="text" class="form-control"  placeholder="Handle" name="user" maxlength="100" required id="{{ form.user.id_for_label }}">
+            </div>
+            </td>
+        </tr>
+        <tr>
+        <td colspan="2">
+        <div class="fieldWrapper">
+            {{ form.contest_code.errors }}
+            <label for="{{ form.contest_code.id_for_label }}"></label>
+            <input type="number" class="form-control"  placeholder="Contest Code"  name="contest_code" maxlength="100" required id="{{ form.contest_code.id_for_label }}">
+        </div>
+        </td>
+        <td colspan="2">
+        <div class="fieldWrapper">
+            {{ form.question_code.errors }}
+            <label for="{{ form.question_code.id_for_label }}"></label>
+            <input type="text" class="form-control"  placeholder="Question Code" name="question_code" maxlength="100" required id="{{ form.question_code.id_for_label }}">
+        </div>
+        </td>
+        </tr>
+        </table>
+        </td>
+        <td colspan="1">
+            <button type="submit" class="btn btn-outline-info btn-lg" >Submit</button>
+        </td>
+        </table>
+    </br>
+</form>
+<br>
+<div id="output">
+        <code>
+        {% for strings in code_text %}
+            <pre>{{ strings }}</pre>
+            {% endfor %}
+        </code>
+</div>
+</div>
+{% endblock %}

@@ -1,0 +1,31 @@
+{% extends 'crawler/base.html' %}
+
+{% block content %}
+<div class="card">
+    <h2 class="page-header">Profile Analysis</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.non_field_errors }}
+        <table border="0" style="width: 100%;">
+        <tr>
+            <td colspan="4">
+            <div class="fieldWrapper">
+            {{ form.user.errors }}
+            <label for="{{ form.user.id_for_label }}"></label>
+    
+            <input type="text" class="form-control"  placeholder="Handle" name="user" maxlength="100" required id="{{ form.user_1.id_for_label }}">
+
+            </div>
+            </td>
+            <td colspan="1">
+                <button type="submit" class="btn btn-outline-info btn-lg" >Submit</button>
+            </td>
+        </tr>
+        </table>
+    </br>
+</form>
+<div id="output">
+    {{ result }}
+</div>
+</div>
+{% endblock %}

@@ -1,0 +1,43 @@
+{% extends 'crawler/base.html' %}
+
+{% block content %}
+<div class="card">
+    <h2 class="page-header">Virtual Rating Change Calculator</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.non_field_errors }}
+        <table border="0" style="width: 100%;">
+        <tr>
+            <td colspan="4">
+            {{ form.old_rating.errors }}
+            <label for="{{ form.old_rating.id_for_label }}"></label>
+            <br>
+            <input type="number" class="form-control"  placeholder="Current Rating" name='old_rating' maxlength="100" required id=" {{ form.old_rating.id_for_label }} ">
+            </td>
+            <td colspan="4">
+                    {{ form.rank.errors }}
+                    <label for="{{ form.rank.id_for_label }}"></label>
+                    <br>
+                    <input type="number" class="form-control" placeholder="Rank" name='rank' maxlength="100" required id=" {{ form.rank.id_for_label }} ">
+                </td>
+        </tr>
+        <tr>
+        <td colspan="4">
+            {{ form.contest_code.errors }}
+            <label for="{{ form.contest_code.id_for_label }}"></label>
+            <input type="number" class="form-control" placeholder="Contest Code" name="contest_code" maxlength="100" required id="{{ form.contest_code.id_for_label }}">
+        </td>
+        <td colspan="4">
+        <div class="fieldWrapper">
+            <button type="submit" class="btn btn-outline-info btn-lg" >Submit</button>
+        </div>
+        </td>
+        </tr>
+        </table>
+    </br>
+</form>
+<div id="output">
+    {{ change }}
+</div>
+</div>
+{% endblock %}

@@ -1,0 +1,188 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CodeHaven </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <style>
+        #nav-button{
+            background-color: white;
+            border: 2px solid 0875E1;
+            border-radius: 5px;
+            position: absolute;
+            display: block;
+            height: 50px;
+            width: 80px;
+            top : 15px;
+            right : 50px;
+        }
+        a{
+            color : black;
+            display : inline-block;
+            text-decoration: none;
+        }
+        a:hover{
+            color : black;
+            text-decoration: none;
+        }
+        #mySideBar
+        {
+            position: fixed;
+            right :  0px;
+            top : 0px;
+            width : 0px;
+            z-index: 5;
+            background-color : white;
+            height : 100%;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            transition: 1s;
+        }
+        .nav-item{
+            height : 70px;
+            display : block;
+            min-width : 250px;
+        }
+        .nav-link{
+            width : 100%;
+        }
+        .menu{
+            height: 80px;
+            padding : 20px;
+        }
+        .header{
+            position : fixed;
+            height : 80px;
+            width : 100%;
+            border-bottom: 2px solid rgba(0, 0, 0, .5);
+            min-width : 400px;
+        }
+        .content{
+            position : absolute;
+            top: 80px;
+            padding : 30px;
+            width : 100%;
+            bottom : 0;
+        }
+        .closebtn{
+            display : inline-block;
+            height: 50px;
+            width : 50px;
+        }
+        #nav-button{
+            transition : 1s;
+            display : block;
+        }
+        #BrandName{
+            position: absolute ;
+            font-size: xx-large;
+            height: 50px;
+            padding-left : 80px;
+            top : 15px;
+        }
+        .card
+        {
+            border-radius: 10px;
+            background-color: rgba(9, 75, 80,.125);
+            padding: 20px 40px;
+            margin:1% auto 1% auto;
+            height: 90%;
+            width: 85%;
+            bottom: 0%;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+
+        }
+        .page-header
+        {
+            border-bottom: rgba(44, 61, 87, 0.705) 1px solid;
+            padding: 10px;
+        }
+        #output
+        {
+            border-radius: 5px;
+            border:rgba(44, 61, 87, 0.705) 2px solid;
+            padding: 10px;
+            background-color: rgba(9, 75, 80,.15);
+            overflow: auto;
+        }
+        body{
+            height: 100vh;
+        }
+        table{
+            table-layout: fixed;
+        }
+        
+
+</style>
+</head>
+<body class="light-grey">
+<div class="header">
+    <a href="#" id="BrandName">CodeHaven</a>
+    <button class="button-nav" type="button" id="nav-button" onclick="openNav()" >&#9776;<span> Menu</span> </button>
+</div>
+<div class="navigation" id="mySideBar">
+    <nav>
+        <div class="menu" style="min-width : 250px;">
+            <a href="javascript:void(0)" class="closebtn"  onclick="closeNav()" >
+                &times;
+            </a>
+            <div style="display:inline-block;">
+                MENU
+            </div>
+            </div>
+        <ul style="list-style: none; padding-left : 10px;">
+            <li class="nav-item">
+                <a href="{% url 'index' %}">
+                    <span class="nav-link">Home</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="{% url 'contests' %}">
+                    <span class="nav-link">Contests</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="{% url 'rating_analyser' %}">
+                    <span class="nav-link">Profile Analysis</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="{% url 'code_searcher' %}">
+                    <span class="nav-link">Get Code</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="{% url 'contest_comparator' %}">
+                    <span class="nav-link">Compare Contest Performance</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="{% url 'rating_change' %}">
+                    <span class="nav-link">Virtual Rating Change</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="{% url 'about_us' %}">
+                    <span class="nav-link">About Us</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<div class="content">
+    {% block content %}
+    {% endblock %}
+</div>
+<script>
+        function openNav() {
+          document.getElementById("mySideBar").style.width = "250px";
+        }
+        function closeNav() {
+          document.getElementById("mySideBar").style.width = "0px";
+        }
+    </script>
+</body>
+</html>
