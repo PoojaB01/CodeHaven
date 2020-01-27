@@ -3,60 +3,99 @@
 {% block content %}
 <div class="card">
 <h2 class="page-header">Contest Calender</h2>
+<br>
+<div class="btn-group">
+    <button type="button" id ="button-up" class="btn btn-outline-info btn-lg active" onclick="up()">Upcoming</button>
+    <button type="button" id ="button-on" class="btn btn-outline-info btn-lg" onclick="on()">Ongoing</button>
+    <button type="button" id ="button-fin" class="btn btn-outline-info btn-lg" onclick="fin()">Finished</button>
+</div>
+<br>
+
 <div id="output">
+    <div id="upcoming">
     <h3>Upcoming</h3>
-    <table>
-        <tbody>
+    <br>
     {% for contest in upcoming %}
-    <tr colspan="8">
-        <td>{{ contest.site }}</td>
+    <table border =1 style="width:100%">
+    <tr>
+        <td colspan="7">{{ contest.site }}</td>
+        <td rowspan="2">{{ contest.startTime }}</td>
     </tr>
     <tr>
-        <td rowspan="2" colspan="7"><a href={{ contest.link }}>{{ contest.name }}</a></td>
-        <td>{{ contest.startTime }}</td>
+        <td rowspan="3" colspan="7"><a href="{{ contest.link }}">{{ contest.name }}</a></td>
     </tr>
     <tr>
-        <td>{{ contest.endTime }}</td>
+        <td rowspan="2">{{ contest.endTime }}</td>
     </tr>
-    {% endfor %}
-    </tbody>
     </table>
     <br>
+    {% endfor %}
+    </div>
+    <div id="ongoing" style="display:none;">
     <h3>Ongoing</h3>
-    <table>
-        <tbody>
-        {% for contest in ongoing %}
-        <tr colspan="8">
-            <td>{{ contest.site }}</td>
-        </tr>
-        <tr>
-            <td rowspan="2" colspan="7"><a href={{ contest.link }}>{{ contest.name }}</a></td>
-            <td>{{ contest.startTime }}</td>
-        </tr>
-        <tr>
-            <td>{{ contest.endTime }}</td>
-        </tr>
-        {% endfor %}
-        </tbody>
-        </table>
     <br>
-    <h3>Finished</h3>
-    <table>
-        <tbody>
-        {% for contest in finished %}
-        <tr colspan="8">
-            <td>{{ contest.site }}</td>
-        </tr>
-        <tr>
-            <td rowspan="2" colspan="7"><a href={{ contest.link }}>{{ contest.name }}</a></td>
-            <td>{{ contest.startTime }}</td>
-        </tr>
-        <tr>
-            <td>{{ contest.endTime }}</td>
-        </tr>
+        {% for contest in ongoing %}
+        <table border =1 style="width:100%">
+                <tr>
+                    <td colspan="7">{{ contest.site }}</td>
+                    <td rowspan="2">{{ contest.startTime }}</td>
+                </tr>
+                <tr>
+                    <td rowspan="3" colspan="7"><a href="{{ contest.link }}">{{ contest.name }}</a></td>
+                </tr>
+                <tr>
+                    <td rowspan="2">{{ contest.endTime }}</td>
+                </tr>
+                </table>
+                <br>
         {% endfor %}
-        </tbody>
-        </table>
+
+    </div>
+    <div id="finished" style="display:none;">
+    <h3>Finished</h3>
+    <br>
+        {% for contest in finished %}
+        <table border =1 style="width:100%">
+                <tr>
+                    <td colspan="7">{{ contest.site }}</td>
+                    <td rowspan="2">{{ contest.startTime }}</td>
+                </tr>
+                <tr>
+                    <td rowspan="3" colspan="7"><a href="{{ contest.link }}">{{ contest.name }}</a></td>
+                </tr>
+                <tr>
+                    <td rowspan="2">{{ contest.endTime }}</td>
+                </tr>
+                </table>
+                <br>
+        {% endfor %}
+    </div>
 </div>
 </div>
+<script>
+    function up() {
+        document.getElementById("upcoming").style.display = "block";
+        document.getElementById("ongoing").style.display = "none";
+        document.getElementById("finished").style.display = "none";
+        document.getElementById("button-up").className = "btn btn-outline-info btn-lg active";
+        document.getElementById("button-on").className = "btn btn-outline-info btn-lg";
+        document.getElementById("button-fin").className = "btn btn-outline-info btn-lg";
+    }
+    function on() {
+        document.getElementById("upcoming").style.display = "none";
+        document.getElementById("ongoing").style.display = "block";
+        document.getElementById("finished").style.display = "none";
+        document.getElementById("button-up").className = "btn btn-outline-info btn-lg";
+        document.getElementById("button-on").className = "btn btn-outline-info btn-lg active";
+        document.getElementById("button-fin").className = "btn btn-outline-info btn-lg";
+    }
+    function fin() {
+        document.getElementById("upcoming").style.display = "none";
+        document.getElementById("ongoing").style.display = "none";
+        document.getElementById("finished").style.display = "block";
+        document.getElementById("button-up").className = "btn btn-outline-info btn-lg";
+        document.getElementById("button-on").className = "btn btn-outline-info btn-lg";
+        document.getElementById("button-fin").className = "btn btn-outline-info btn-lg active";
+    }
+</script>
 {% endblock %}

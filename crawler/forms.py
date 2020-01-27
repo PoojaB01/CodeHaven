@@ -1,5 +1,10 @@
 from django import forms
 
+CHOICES= [
+    ('upcoming', 'Upcoming'),
+    ('ongoing', 'Ongoing'),
+    ('finished', 'Finished'),
+    ]
 
 class code_search_form(forms.Form):
     user = forms.CharField()

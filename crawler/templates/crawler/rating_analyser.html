@@ -25,7 +25,47 @@
     </br>
 </form>
 <div id="output">
-    {{ result }}
+    <table>
+        <tr>
+            <td>{{ result.handle }}</td>
+            <td>Max. Rating : {{ result.maxRating }} ({{ result.maxRank }})</td>
+        </tr>
+        <tr>
+            <td>{{ result.name }}</td>
+            <td>Curr. Rating : {{ result.rating }} ({{ result.rank }})</td>
+        </tr>
+    </table>
+    <br> <br>
+    <table>
+    <tr>
+    <td>
+        Minimum Rating Change<br>
+        <a href={{ result.min_change.code }}>{{ result.min_change.name }}</a><br>
+        {{ result.min_change.change }}<br>
+        Rank : {{ result.min_change.rank }}<br>
+        {{ result.min_change.oldR }} -> {{ result.min_change.newR }}<br>
+    </td>
+    <td>
+        Maximum Rating Change<br>
+        <a href={{ result.max_change.code }}>{{ result.max_change.name }}</a><br>
+        {{ result.max_change.change }}<br>
+        Rank : {{ result.max_change.rank }}<br>
+        {{ result.max_change.oldR }} -> {{ result.max_change.newR }}<br>
+    </td>
+    </tr>
+    <tr>
+        <td>
+            Number of contests : {{ result.contests }}<br>
+            Highest Rank : {{ result.best_rank }}<br>
+            Average submissions per week : {{ result.average_sub }}
+        </td>
+        <td>
+            piechart
+        </td>
+    </tr>
+    </table>
+    <div> Heat map </div>
+    
 </div>
 </div>
 {% endblock %}

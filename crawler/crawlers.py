@@ -31,11 +31,12 @@ def crawler_2(user):
     data = r.json()
     data = data['result'][0]
     result={}
+    result['handle'] = user
     result['name'] = ''
-    if 'firstname' in data:
-        result['name'] = data['firstname']
-    if 'lastname' in data:
-        result['name'] = data['lastname']
+    if 'firstName' in data:
+        result['name'] = data['firstName']
+    if 'lastName' in data:
+        result['name'] = result['name'] + ' ' + data['lastName']
     if 'rating' in data:
         result['rating'] = data['rating']
         result['maxRating'] = data['maxRating']
@@ -63,9 +64,9 @@ def crawler_2(user):
                 i2 = i
             if data[i]['rank'] < best_rank:
                 best_rank = data[i]['rank']
-        result['max_change'] = { 'change' : max_change , 'name' : data[i1]['contestName'] , 'code' : data[i1]['contestId'] , 'rank' : data[i1]['rank'] , 'oldR' : data[i1]['oldRating'] , 'newR' : data[i1]['newRating'] }
+        result['max_change'] = { 'change' : max_change , 'name' : data[i1]['contestName'] , 'code' : 'https://codeforces.com/contest/' + str(data[i1]['contestId']) , 'rank' : data[i1]['rank'] , 'oldR' : data[i1]['oldRating'] , 'newR' : data[i1]['newRating'] }
         i1=i2
-        result['min_change'] = { 'change' : min_change , 'name' : data[i1]['contestName'] , 'code' : data[i1]['contestId'] , 'rank' : data[i1]['rank'] , 'oldR' : data[i1]['oldRating'] , 'newR' : data[i1]['newRating'] }
+        result['min_change'] = { 'change' : min_change , 'name' : data[i1]['contestName'] , 'code' : 'https://codeforces.com/contest/' + str(data[i1]['contestId']) , 'rank' : data[i1]['rank'] , 'oldR' : data[i1]['oldRating'] , 'newR' : data[i1]['newRating'] }
         result['best_rank'] = best_rank
         result['contests'] = len(data)
     else:
@@ -233,9 +234,9 @@ def crawler_6():
             new['startTime'] = data['startTimeSeconds']
             new['endTime'] = data['durationSeconds'] + data['startTimeSeconds']
             timestamp = datetime.datetime.fromtimestamp(new['startTime'])
-            new['startTime'] = timestamp.strftime('%d/%M/%Y %H:%M:%S')
+            new['startTime'] = timestamp.strftime('%d/%m/%Y %H:%M:%S')
             timestamp = datetime.datetime.fromtimestamp(new['endTime'])
-            new['endTime'] = timestamp.strftime('%d/%M/%Y %H:%M:%S')
+            new['endTime'] = timestamp.strftime('%d/%m/%Y %H:%M:%S')
             upcoming.append(new)
         if data['phase'] == 'CODING':
             new = {}
@@ -245,9 +246,9 @@ def crawler_6():
             new['startTime'] = data['startTimeSeconds']
             new['endTime'] = data['durationSeconds'] + data['startTimeSeconds']
             timestamp = datetime.datetime.fromtimestamp(new['startTime'])
-            new['startTime'] = timestamp.strftime('%d/%M/%Y %H:%M:%S')
+            new['startTime'] = timestamp.strftime('%d/%m/%Y %H:%M:%S')
             timestamp = datetime.datetime.fromtimestamp(new['endTime'])
-            new['endTime'] = timestamp.strftime('%d/%M/%Y %H:%M:%S')
+            new['endTime'] = timestamp.strftime('%d/%m/%Y %H:%M:%S')
             ongoing.append(new)
         if data['phase'] == 'FINISHED':
             new = {}
@@ -257,9 +258,9 @@ def crawler_6():
             new['startTime'] = data['startTimeSeconds']
             new['endTime'] = data['durationSeconds'] + data['startTimeSeconds']
             timestamp = datetime.datetime.fromtimestamp(new['startTime'])
-            new['startTime'] = timestamp.strftime('%d/%M/%Y %H:%M:%S')
+            new['startTime'] = timestamp.strftime('%d/%m/%Y %H:%M:%S')
             timestamp = datetime.datetime.fromtimestamp(new['endTime'])
-            new['endTime'] = timestamp.strftime('%d/%M/%Y %H:%M:%S')
+            new['endTime'] = timestamp.strftime('%d/%m/%Y %H:%M:%S')
             finished.append(new)
     contests_page = requests.get('https://www.codechef.com/contests').text
     soup = BeautifulSoup(contests_page,'lxml')
@@ -279,9 +280,9 @@ def crawler_6():
             dt = datetime.datetime.strptime(ds, '%d %b %Y %H:%M:%S')
             new['endTime'] = int(time.mktime(dt.timetuple()))
             timestamp = datetime.datetime.fromtimestamp(new['startTime'])
-            new['startTime'] = timestamp.strftime('%d/%M/%Y %H:%M:%S')
+            new['startTime'] = timestamp.strftime('%d/%m/%Y %H:%M:%S')
             timestamp = datetime.datetime.fromtimestamp(new['endTime'])
-            new['endTime'] = timestamp.strftime('%d/%M/%Y %H:%M:%S')
+            new['endTime'] = timestamp.strftime('%d/%m/%Y %H:%M:%S')
             if j==0:
                 ongoing.append(new)
             if j==1:
@@ -293,4 +294,3 @@ def crawler_6():
 def virtual_rating_change(rank,contest_code,rating):
     return 0
 
-crawler_6()
