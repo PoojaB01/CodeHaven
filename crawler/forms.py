@@ -18,7 +18,7 @@ class analyse_profile_form(forms.Form):
 class rating_change_calculator(forms.Form):
     old_rating = forms.IntegerField()
     rank = forms.IntegerField()
-    contest_code = forms.IntegerField()
+    contest_code = forms.CharField()
 
 
 class average_gap_form(forms.Form):

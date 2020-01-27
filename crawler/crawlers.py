@@ -5,7 +5,27 @@ from datetime import date
 import time
 import datetime
 import json
+from math import *
 
+def expectedRank(arr,r):
+    seed = 1
+    for i in arr:
+        seed = seed + 1/(1+10**((r-i)/400))
+    return seed
+
+def b_search(arr,seed):
+    start = 0 
+    end = 4000
+    while start<end:
+        mid = (start + end)/2
+        E_R = expectedRank(arr,mid)
+        if abs(E_R-seed) < 5:
+            return mid
+        if E_R > seed :
+            start = mid + 1
+        else:
+             end = mid + 1
+    return 0
 
 def crawler_1(user, contest_code, question_code):
 
@@ -292,5 +312,13 @@ def crawler_6():
     return upcoming , ongoing , finished
 
 def virtual_rating_change(rank,contest_code,rating):
-    return 0
-
+    cf_api = requests.get('https://codeforces.com/api/contest.ratingChanges?contestId='+contest_code)
+    oldR_json = cf_api.json()
+    oldR_arr = []
+    for data in oldR_json['result']:
+        oldR_arr.append(data['oldRating'])
+    seed = expectedRank(oldR_arr,rating)
+    gm_rank = sqrt(seed*rank)
+    R_seed = b_search(oldR_arr,gm_rank)
+    print(seed,R_seed)
+    return int((R_seed-rating)/2)
