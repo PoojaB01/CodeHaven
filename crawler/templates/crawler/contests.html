@@ -16,58 +16,58 @@
     <h3>Upcoming</h3>
     <br>
     {% for contest in upcoming %}
-    <table border =1 style="width:100%">
-    <tr>
-        <td colspan="7">{{ contest.site }}</td>
-        <td rowspan="2">{{ contest.startTime }}</td>
-    </tr>
-    <tr>
-        <td rowspan="3" colspan="7"><a href="{{ contest.link }}">{{ contest.name }}</a></td>
-    </tr>
-    <tr>
-        <td rowspan="2">{{ contest.endTime }}</td>
-    </tr>
-    </table>
-    <br>
+    <table class="contest" style="width:100%;">
+        <tr style="border-bottom:solid 1px black;">
+            <td colspan="8" style="padding-left: 20px;">{{ contest.site }}</td>
+        </tr>
+        <tr>
+            <td rowspan="2" colspan="6"><a href="{{ contest.link }}">{{ contest.name }}</a></td>
+            <td colspan="2" rowspan="1">{{ contest.startTime }}</td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="1">{{ contest.endTime }}</td>
+        </tr>
+        </table>
+        <br>
     {% endfor %}
     </div>
     <div id="ongoing" style="display:none;">
     <h3>Ongoing</h3>
     <br>
         {% for contest in ongoing %}
-        <table border =1 style="width:100%">
-                <tr>
-                    <td colspan="7">{{ contest.site }}</td>
-                    <td rowspan="2">{{ contest.startTime }}</td>
+        <table border =0 class="contest" style="width:100%">
+                <tr style="border-bottom:solid 1px black;">
+                    <td colspan="8" style="padding-left: 20px;">{{ contest.site }}</td>
                 </tr>
                 <tr>
-                    <td rowspan="3" colspan="7"><a href="{{ contest.link }}">{{ contest.name }}</a></td>
+                    <td rowspan="2" colspan="6"><a href="{{ contest.link }}">{{ contest.name }}</a></td>
+                    <td colspan="2" rowspan="1">{{ contest.startTime }}</td>
                 </tr>
                 <tr>
-                    <td rowspan="2">{{ contest.endTime }}</td>
+                    <td colspan="2" rowspan="1">{{ contest.endTime }}</td>
                 </tr>
                 </table>
                 <br>
         {% endfor %}
 
     </div>
-    <div id="finished" style="display:none;">
+    <div id="finished" class="contest-table" style="display:none;">
     <h3>Finished</h3>
     <br>
         {% for contest in finished %}
-        <table border =1 style="width:100%">
-                <tr>
-                    <td colspan="7">{{ contest.site }}</td>
-                    <td rowspan="2">{{ contest.startTime }}</td>
-                </tr>
-                <tr>
-                    <td rowspan="3" colspan="7"><a href="{{ contest.link }}">{{ contest.name }}</a></td>
-                </tr>
-                <tr>
-                    <td rowspan="2">{{ contest.endTime }}</td>
-                </tr>
-                </table>
-                <br>
+        <table border =0 class="contest" style="width:100%">
+            <tr style="border-bottom:solid 1px black;">
+                <td colspan="8" style="padding-left: 20px;">{{ contest.site }}</td>
+            </tr>
+            <tr>
+                <td rowspan="2" colspan="6"><a href="{{ contest.link }}">{{ contest.name }}</a></td>
+                <td colspan="2" rowspan="1">{{ contest.startTime }}</td>
+            </tr>
+            <tr>
+                <td colspan="2" rowspan="1">{{ contest.endTime }}</td>
+            </tr>
+            </table>
+            <br>
         {% endfor %}
     </div>
 </div>
