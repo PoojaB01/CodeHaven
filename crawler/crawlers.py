@@ -282,6 +282,7 @@ def crawler_6():
             timestamp = datetime.datetime.fromtimestamp(new['endTime'])
             new['endTime'] = timestamp.strftime('%d/%m/%Y %H:%M:%S')
             finished.append(new)
+        """
     contests_page = requests.get('https://www.codechef.com/contests').text
     soup = BeautifulSoup(contests_page,'lxml')
     tables = soup.find_all('table', class_='dataTable')
@@ -308,7 +309,7 @@ def crawler_6():
             if j==1:
                 upcoming.append(new)
             if j==2:
-                finished.append(new)
+                finished.append(new) """
     return upcoming , ongoing , finished
 
 def virtual_rating_change(rank,contest_code,rating):

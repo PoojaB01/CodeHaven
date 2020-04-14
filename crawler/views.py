@@ -30,12 +30,12 @@ def rating_analyser(request):
         if form.is_valid():
             user = form.cleaned_data['user']
             result = crawler_2(user)
-            sub = generate_heat_map()
-            pie = generate_pie_chart()
-            grid = [[0 for i in range(53)] for j in range(7)]
-            for k, v in sub.items():
-                if k < 366:
-                    grid[k % 7][k // 7] = v
+            #sub = generate_heat_map(user)
+            #pie = generate_pie_chart(user)
+            #grid = [[0 for i in range(53)] for j in range(7)]
+            #for k, v in sub.items():
+            #    if k < 366:
+            #        grid[k % 7][k // 7] = v
             return render(request, 'crawler/rating_analyser.html', {'form': form, 'result' : result })
     form = analyse_profile_form()
     return render(request, 'crawler/rating_analyser.html', {'form': form})
