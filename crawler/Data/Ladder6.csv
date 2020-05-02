@@ -1,0 +1,101 @@
+SNo,QueName,QueLink,Contest,QueType 
+1, Given Length and Sum of Digits..., http://codeforces.com/contest/489/problem/C, 489, C
+2, Number of Ways, http://codeforces.com/contest/466/problem/C, 466, C
+3, Team, http://codeforces.com/contest/401/problem/C, 401, C
+4, Exams, http://codeforces.com/contest/479/problem/C, 479, C
+5, Boredom, http://codeforces.com/contest/455/problem/A, 455, A
+6, Table Decorations, http://codeforces.com/contest/478/problem/C, 478, C
+7, Beautiful Sets of Points, http://codeforces.com/contest/268/problem/C, 268, C
+8, k-Tree, http://codeforces.com/contest/431/problem/C, 431, C
+9, Valera and Tubes , http://codeforces.com/contest/441/problem/C, 441, C
+10, Palindrome Transformation, http://codeforces.com/contest/486/problem/C, 486, C
+11, Fixing Typos, http://codeforces.com/contest/363/problem/C, 363, C
+12, Hacking Cypher, http://codeforces.com/contest/490/problem/C, 490, C
+13, Gargari and Bishops, http://codeforces.com/contest/463/problem/C, 463, C
+14, Pocket Book, http://codeforces.com/contest/152/problem/C, 152, C
+15, Lucky Sum of Digits, http://codeforces.com/contest/109/problem/A, 109, A
+16, Arithmetic Progression, http://codeforces.com/contest/382/problem/C, 382, C
+17, Fox and Box Accumulation, http://codeforces.com/contest/388/problem/A, 388, A
+18, Hexadecimal's Numbers, http://codeforces.com/contest/9/problem/C, 9, C
+19, Xenia and Weights, http://codeforces.com/contest/339/problem/C, 339, C
+20, Bombs, http://codeforces.com/contest/350/problem/C, 350, C
+21, Pashmak and Buses, http://codeforces.com/contest/459/problem/C, 459, C
+22, Little Elephant and Problem, http://codeforces.com/contest/220/problem/A, 220, A
+23, Maze, http://codeforces.com/contest/377/problem/A, 377, A
+24, Ice Skating, http://codeforces.com/contest/217/problem/A, 217, A
+25, Hamburgers, http://codeforces.com/contest/371/problem/C, 371, C
+26, Bear and Prime Numbers, http://codeforces.com/contest/385/problem/C, 385, C
+27, History, http://codeforces.com/contest/137/problem/C, 137, C
+28, Checkposts, http://codeforces.com/contest/427/problem/C, 427, C
+29, Mashmokh and Numbers, http://codeforces.com/contest/414/problem/A, 414, A
+30, Ladder, http://codeforces.com/contest/279/problem/C, 279, C
+31, Escape from Stones, http://codeforces.com/contest/264/problem/A, 264, A
+32, Division into Teams, http://codeforces.com/contest/149/problem/C, 149, C
+33, Barcode, http://codeforces.com/contest/225/problem/C, 225, C
+34, Stripe, http://codeforces.com/contest/18/problem/C, 18, C
+35, Mafia, http://codeforces.com/contest/348/problem/A, 348, A
+36, Cows and Sequence, http://codeforces.com/contest/283/problem/A, 283, A
+37, To Add or Not to Add, http://codeforces.com/contest/231/problem/C, 231, C
+38, Xor-tree, http://codeforces.com/contest/429/problem/A, 429, A
+39, LCM Challenge, http://codeforces.com/contest/235/problem/A, 235, A
+40, Rational Resistance, http://codeforces.com/contest/343/problem/A, 343, A
+41, Points on Line, http://codeforces.com/contest/251/problem/A, 251, A
+42, No to Palindromes!, http://codeforces.com/contest/464/problem/A, 464, A
+43, Magic Formulas, http://codeforces.com/contest/424/problem/C, 424, C
+44, Beautiful Numbers, http://codeforces.com/contest/300/problem/C, 300, C
+45, Quiz, http://codeforces.com/contest/337/problem/C, 337, C
+46, Replacement, http://codeforces.com/contest/135/problem/A, 135, A
+47, Vasya and Robot, http://codeforces.com/contest/354/problem/A, 354, A
+48, Captain Marmot, http://codeforces.com/contest/474/problem/C, 474, C
+49, Win or Freeze, http://codeforces.com/contest/150/problem/A, 150, A
+50, Matrix, http://codeforces.com/contest/364/problem/A, 364, A
+51, Little Frog, http://codeforces.com/contest/53/problem/C, 53, C
+52, Lucky Sum, http://codeforces.com/contest/121/problem/A, 121, A
+53, Fight the Monster, http://codeforces.com/contest/487/problem/A, 487, A
+54, Triangle, http://codeforces.com/contest/407/problem/A, 407, A
+55, View Angle, http://codeforces.com/contest/257/problem/C, 257, C
+56, King's Path, http://codeforces.com/contest/242/problem/C, 242, C
+57, Round Table Knights, http://codeforces.com/contest/71/problem/C, 71, C
+58, Purification, http://codeforces.com/contest/329/problem/A, 329, A
+59, Maxim and Discounts, http://codeforces.com/contest/261/problem/A, 261, A
+60, The Closest Pair, http://codeforces.com/contest/311/problem/A, 311, A
+61, Divisible by Seven, http://codeforces.com/contest/375/problem/A, 375, A
+62, Hometask, http://codeforces.com/contest/154/problem/A, 154, A
+63, Little Elephant and Interval, http://codeforces.com/contest/204/problem/A, 204, A
+64, Dorm Water Supply, http://codeforces.com/contest/107/problem/A, 107, A
+65, Shaass and Lights, http://codeforces.com/contest/294/problem/C, 294, C
+66, Prime Number, http://codeforces.com/contest/359/problem/C, 359, C
+67, The Brand New Function, http://codeforces.com/contest/243/problem/A, 243, A
+68, About Bacteria, http://codeforces.com/contest/198/problem/A, 198, A
+69, Malek Dance Club, http://codeforces.com/contest/319/problem/A, 319, A
+70, Dima and Containers, http://codeforces.com/contest/358/problem/C, 358, C
+71, Trains, http://codeforces.com/contest/87/problem/A, 87, A
+72, Almost Arithmetical Progression, http://codeforces.com/contest/255/problem/C, 255, C
+73, Newspaper Headline, http://codeforces.com/contest/91/problem/A, 91, A
+74, Inna and Dima, http://codeforces.com/contest/374/problem/C, 374, C
+75, Hiring Staff, http://codeforces.com/contest/216/problem/C, 216, C
+76, STL, http://codeforces.com/contest/190/problem/C, 190, C
+77, Prime Permutation, http://codeforces.com/contest/123/problem/A, 123, A
+78, Four Segments, http://codeforces.com/contest/14/problem/C, 14, C
+79, Fire Again, http://codeforces.com/contest/35/problem/C, 35, C
+80, Below the Diagonal, http://codeforces.com/contest/266/problem/C, 266, C
+81, Mail Stamps, http://codeforces.com/contest/29/problem/C, 29, C
+82, Grammar Lessons, http://codeforces.com/contest/113/problem/A, 113, A
+83, Bracket Sequence, http://codeforces.com/contest/223/problem/A, 223, A
+84, Heroes, http://codeforces.com/contest/77/problem/A, 77, A
+85, Literature Lesson, http://codeforces.com/contest/138/problem/A, 138, A
+86, Reducing Fractions, http://codeforces.com/contest/222/problem/C, 222, C
+87, Game, http://codeforces.com/contest/213/problem/A, 213, A
+88, Cutting Figure, http://codeforces.com/contest/193/problem/A, 193, A
+89, Trees, http://codeforces.com/contest/58/problem/C, 58, C
+90, Hockey, http://codeforces.com/contest/95/problem/A, 95, A
+91, Schedule, http://codeforces.com/contest/31/problem/C, 31, C
+92, Rectangle Puzzle, http://codeforces.com/contest/280/problem/A, 280, A
+93, Disposition, http://codeforces.com/contest/49/problem/C, 49, C
+94, Flea, http://codeforces.com/contest/32/problem/C, 32, C
+95, Help Victoria the Wise, http://codeforces.com/contest/98/problem/A, 98, A
+96, Corporation Mail, http://codeforces.com/contest/56/problem/C, 56, C
+97, Optimal Sum, http://codeforces.com/contest/182/problem/C, 182, C
+98, On Number of Decompositions into Multipliers, http://codeforces.com/contest/396/problem/A, 396, A
+99, Blocked Points, http://codeforces.com/contest/392/problem/A, 392, A
+100, Crossword, http://codeforces.com/contest/47/problem/C, 47, C

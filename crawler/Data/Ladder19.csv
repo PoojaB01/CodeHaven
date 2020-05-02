@@ -1,0 +1,101 @@
+SNo,QueName,QueLink,Contest,QueType 
+1, Fox And Snake, http://codeforces.com/contest/510/problem/A, 510, A
+2, Pangram, http://codeforces.com/contest/520/problem/A, 520, A
+3, Vanya and Cubes, http://codeforces.com/contest/492/problem/A, 492, A
+4, Minimum Difficulty, http://codeforces.com/contest/496/problem/A, 496, A
+5, Dreamoon and WiFi, http://codeforces.com/contest/476/problem/B, 476, B
+6, Giga Tower, http://codeforces.com/contest/488/problem/A, 488, A
+7, Vanya and Lanterns, http://codeforces.com/contest/492/problem/B, 492, B
+8, Two Buttons, http://codeforces.com/contest/520/problem/B, 520, B
+9, Good Sequences, http://codeforces.com/contest/264/problem/B, 264, B
+10, Long Path, http://codeforces.com/contest/407/problem/B, 407, B
+11, Maximum Submatrix 2, http://codeforces.com/contest/375/problem/B, 375, B
+12, Glass Carving, http://codeforces.com/contest/527/problem/C, 527, C
+13, Factory, http://codeforces.com/contest/485/problem/A, 485, A
+14, Mr. Kitayuta| the Treasure Hunter, http://codeforces.com/contest/505/problem/C, 505, C
+15, Number of Ways, http://codeforces.com/contest/466/problem/C, 466, C
+16, Vanya and Exams, http://codeforces.com/contest/492/problem/C, 492, C
+17, Clique Problem, http://codeforces.com/contest/527/problem/D, 527, D
+18, Triangle, http://codeforces.com/contest/407/problem/A, 407, A
+19, DZY Loves Sequences, http://codeforces.com/contest/446/problem/A, 446, A
+20, Boredom, http://codeforces.com/contest/455/problem/A, 455, A
+21, Fox and Card Game, http://codeforces.com/contest/388/problem/C, 388, C
+22, Fox and Minimal path, http://codeforces.com/contest/388/problem/B, 388, B
+23, Drazil and Tiles, http://codeforces.com/contest/515/problem/D, 515, D
+24, Vanya and Field, http://codeforces.com/contest/492/problem/E, 492, E
+25, Watching Fireworks is Fun, http://codeforces.com/contest/372/problem/C, 372, C
+26, Sereja and Table , http://codeforces.com/contest/425/problem/B, 425, B
+27, Ciel and Duel, http://codeforces.com/contest/321/problem/B, 321, B
+28, Three States, http://codeforces.com/contest/590/problem/C, 590, C
+29, Little Pony and Harmony Chest, http://codeforces.com/contest/453/problem/B, 453, B
+30, Increase Sequence, http://codeforces.com/contest/466/problem/D, 466, D
+31, Pashmak and Parmida's problem, http://codeforces.com/contest/459/problem/D, 459, D
+32, Levko and Array, http://codeforces.com/contest/360/problem/B, 360, B
+33, Vanya and Computer Game, http://codeforces.com/contest/492/problem/D, 492, D
+34, Appleman and a Sheet of Paper, http://codeforces.com/contest/461/problem/C, 461, C
+35, Jeff and Permutation, http://codeforces.com/contest/351/problem/E, 351, E
+36, Ciel the Commander, http://codeforces.com/contest/321/problem/C, 321, C
+37, Pair of Numbers, http://codeforces.com/contest/359/problem/D, 359, D
+38, Wonder Room, http://codeforces.com/contest/466/problem/B, 466, B
+39, Upgrading Array, http://codeforces.com/contest/402/problem/D, 402, D
+40, Pashmak and Graph, http://codeforces.com/contest/459/problem/E, 459, E
+41, DZY Loves Modification, http://codeforces.com/contest/446/problem/B, 446, B
+42, Water Tree, http://codeforces.com/contest/343/problem/D, 343, D
+43, Appleman and Tree, http://codeforces.com/contest/461/problem/B, 461, B
+44, Gerald and Giant Chess, http://codeforces.com/contest/559/problem/C, 559, C
+45, Array and Operations, http://codeforces.com/contest/498/problem/C, 498, C
+46, Restore Cube , http://codeforces.com/contest/464/problem/B, 464, B
+47, Lucky Subsequence, http://codeforces.com/contest/145/problem/C, 145, C
+48, Little Elephant and Array, http://codeforces.com/contest/220/problem/B, 220, B
+49, Strip, http://codeforces.com/contest/487/problem/B, 487, B
+50, Sereja and Brackets, http://codeforces.com/contest/380/problem/C, 380, C
+51, Mashmokh and Reverse Operation, http://codeforces.com/contest/414/problem/C, 414, C
+52, Prefixes and Suffixes, http://codeforces.com/contest/432/problem/D, 432, D
+53, Propagating tree, http://codeforces.com/contest/383/problem/C, 383, C
+54, Two Sets, http://codeforces.com/contest/468/problem/B, 468, B
+55, Civilization, http://codeforces.com/contest/455/problem/C, 455, C
+56, Little Pony and Summer Sun Celebration, http://codeforces.com/contest/453/problem/C, 453, C
+57, Watto and Mechanism, http://codeforces.com/contest/514/problem/C, 514, C
+58, Substitutes in Number, http://codeforces.com/contest/464/problem/C, 464, C
+59, A Lot of Games, http://codeforces.com/contest/455/problem/B, 455, B
+60, Jzzhu and Cities, http://codeforces.com/contest/449/problem/B, 449, B
+61, Caisa and Tree, http://codeforces.com/contest/463/problem/E, 463, E
+62, Hill Climbing, http://codeforces.com/contest/406/problem/D, 406, D
+63, Mr. Kitayuta's Colorful Graph, http://codeforces.com/contest/506/problem/D, 506, D
+64, Double Profiles, http://codeforces.com/contest/154/problem/C, 154, C
+65, Number Transformation II, http://codeforces.com/contest/346/problem/C, 346, C
+66, Darth Vader and Tree, http://codeforces.com/contest/514/problem/E, 514, E
+67, Divisors, http://codeforces.com/contest/448/problem/E, 448, E
+68, Captains Mode, http://codeforces.com/contest/377/problem/C, 377, C
+69, Mike and Frog, http://codeforces.com/contest/547/problem/A, 547, A
+70, Sereja and Two Sequences, http://codeforces.com/contest/425/problem/C, 425, C
+71, A Simple Task, http://codeforces.com/contest/558/problem/E, 558, E
+72, Devu and Birthday Celebration, http://codeforces.com/contest/439/problem/E, 439, E
+73, Sereja and Squares, http://codeforces.com/contest/425/problem/D, 425, D
+74, Traffic Jams in the Land, http://codeforces.com/contest/498/problem/D, 498, D
+75, Match & Catch, http://codeforces.com/contest/427/problem/D, 427, D
+76, DZY Loves FFT, http://codeforces.com/contest/444/problem/B, 444, B
+77, The Child and Sequence, http://codeforces.com/contest/438/problem/D, 438, D
+78, Vasya and Beautiful Arrays, http://codeforces.com/contest/354/problem/C, 354, C
+79, Beautiful Pairs of Numbers, http://codeforces.com/contest/403/problem/D, 403, D
+80, Tricky Function, http://codeforces.com/contest/429/problem/D, 429, D
+81, Antimatter, http://codeforces.com/contest/383/problem/D, 383, D
+82, DZY Loves Colors, http://codeforces.com/contest/444/problem/C, 444, C
+83, Information Graph, http://codeforces.com/contest/466/problem/E, 466, E
+84, Jzzhu and Numbers, http://codeforces.com/contest/449/problem/D, 449, D
+85, Little Elephant and Inversions, http://codeforces.com/contest/220/problem/E, 220, E
+86, Subset Sums, http://codeforces.com/contest/348/problem/C, 348, C
+87, Arthur and Walls, http://codeforces.com/contest/525/problem/D, 525, D
+88, Mashmokh and Water Tanks, http://codeforces.com/contest/414/problem/D, 414, D
+89, Square Tiling, http://codeforces.com/contest/432/problem/E, 432, E
+90, Alex and Complicated Task, http://codeforces.com/contest/467/problem/E, 467, E
+91, Fedor and Essay, http://codeforces.com/contest/467/problem/D, 467, D
+92, Case of a Top Secret, http://codeforces.com/contest/555/problem/D, 555, D
+93, Xenia and Tree, http://codeforces.com/contest/342/problem/E, 342, E
+94, Kindergarten, http://codeforces.com/contest/484/problem/D, 484, D
+95, Artem and Array , http://codeforces.com/contest/442/problem/C, 442, C
+96, Jzzhu and Apples, http://codeforces.com/contest/449/problem/C, 449, C
+97, DZY Loves Fibonacci Numbers, http://codeforces.com/contest/446/problem/C, 446, C
+98, Polo the Penguin and Trees , http://codeforces.com/contest/288/problem/D, 288, D
+99, Sign on Fence, http://codeforces.com/contest/484/problem/E, 484, E
+100, Serega and Fun, http://codeforces.com/contest/455/problem/D, 455, D

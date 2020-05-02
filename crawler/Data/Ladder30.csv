@@ -1,0 +1,201 @@
+SNo,QueName,QueLink,Contest,QueType 
+1, George and Accommodation, http://codeforces.com/contest/467/problem/A, 467, A
+2, Opponents, http://codeforces.com/contest/688/problem/A, 688, A
+3, Patrick and Shopping, http://codeforces.com/contest/599/problem/A, 599, A
+4, Mashmokh and Lights, http://codeforces.com/contest/415/problem/A, 415, A
+5, Squats, http://codeforces.com/contest/424/problem/A, 424, A
+6, Sereja and Mugs, http://codeforces.com/contest/426/problem/A, 426, A
+7, Summer Camp, http://codeforces.com/contest/672/problem/A, 672, A
+8, Case of the Zeros and Ones, http://codeforces.com/contest/556/problem/A, 556, A
+9, Lucky String, http://codeforces.com/contest/110/problem/B, 110, B
+10, Queue on Bus Stop, http://codeforces.com/contest/435/problem/A, 435, A
+11, Currency System in Geraldion, http://codeforces.com/contest/560/problem/A, 560, A
+12, Saitama Destroys Hotel, http://codeforces.com/contest/608/problem/A, 608, A
+13, Lecture, http://codeforces.com/contest/499/problem/B, 499, B
+14, Uncowed Forces, http://codeforces.com/contest/604/problem/A, 604, A
+15, Drazil and Date, http://codeforces.com/contest/515/problem/A, 515, A
+16, Different is Good, http://codeforces.com/contest/672/problem/B, 672, B
+17, Case of Fake Numbers, http://codeforces.com/contest/556/problem/B, 556, B
+18, Plant, http://codeforces.com/contest/185/problem/A, 185, A
+19, Infinite Sequence, http://codeforces.com/contest/675/problem/A, 675, A
+20, K-special Tables, http://codeforces.com/contest/625/problem/C, 625, C
+21, Digital Counter, http://codeforces.com/contest/495/problem/A, 495, A
+22, Xor-tree, http://codeforces.com/contest/429/problem/A, 429, A
+23, Memory and Trident, http://codeforces.com/contest/712/problem/B, 712, B
+24, Vasya and Football, http://codeforces.com/contest/493/problem/A, 493, A
+25, Lucky Mask, http://codeforces.com/contest/146/problem/B, 146, B
+26, Alternative Thinking, http://codeforces.com/contest/603/problem/A, 603, A
+27, Tournament, http://codeforces.com/contest/27/problem/B, 27, B
+28, Sereja and Algorithm , http://codeforces.com/contest/367/problem/A, 367, A
+29, Megacity, http://codeforces.com/contest/424/problem/B, 424, B
+30, Beautiful Paintings, http://codeforces.com/contest/651/problem/B, 651, B
+31, Petya and Square, http://codeforces.com/contest/112/problem/B, 112, B
+32, Valuable Resources, http://codeforces.com/contest/485/problem/B, 485, B
+33, Progress Bar, http://codeforces.com/contest/71/problem/B, 71, B
+34, Garland, http://codeforces.com/contest/408/problem/B, 408, B
+35, War of the Corporations, http://codeforces.com/contest/625/problem/B, 625, B
+36, Misha and Changing Handles, http://codeforces.com/contest/501/problem/B, 501, B
+37, Milking cows, http://codeforces.com/contest/383/problem/A, 383, A
+38, Sereja and Mirroring, http://codeforces.com/contest/426/problem/B, 426, B
+39, The Child and Homework, http://codeforces.com/contest/437/problem/A, 437, A
+40, Vasya and String, http://codeforces.com/contest/676/problem/C, 676, C
+41, Pyramid of Glasses, http://codeforces.com/contest/676/problem/B, 676, B
+42, Restoring Painting, http://codeforces.com/contest/675/problem/B, 675, B
+43, Petya and Inequiations, http://codeforces.com/contest/111/problem/A, 111, A
+44, Buns, http://codeforces.com/contest/106/problem/C, 106, C
+45, Sereja and Prefixes, http://codeforces.com/contest/380/problem/A, 380, A
+46, Cthulhu, http://codeforces.com/contest/103/problem/B, 103, B
+47, Chris and Magic Square, http://codeforces.com/contest/711/problem/B, 711, B
+48, Logo Turtle, http://codeforces.com/contest/132/problem/C, 132, C
+49, Moodular Arithmetic, http://codeforces.com/contest/603/problem/B, 603, B
+50, Vasiliy's Multiset, http://codeforces.com/contest/706/problem/D, 706, D
+51, Message, http://codeforces.com/contest/156/problem/A, 156, A
+52, 24 Game, http://codeforces.com/contest/468/problem/A, 468, A
+53, Mike and Chocolate Thieves, http://codeforces.com/contest/689/problem/C, 689, C
+54, Peter and Snow Blower, http://codeforces.com/contest/613/problem/A, 613, A
+55, Secret Combination, http://codeforces.com/contest/496/problem/B, 496, B
+56, Hometask, http://codeforces.com/contest/154/problem/A, 154, A
+57, Alice and Bob, http://codeforces.com/contest/346/problem/A, 346, A
+58, Memory and De-Evolution, http://codeforces.com/contest/712/problem/C, 712, C
+59, Levko and Array Recovery, http://codeforces.com/contest/360/problem/A, 360, A
+60, Vasya and Wrestling, http://codeforces.com/contest/493/problem/B, 493, B
+61, Kay and Snowflake, http://codeforces.com/contest/685/problem/B, 685, B
+62, Alternating Current, http://codeforces.com/contest/343/problem/B, 343, B
+63, Coloring Trees, http://codeforces.com/contest/711/problem/C, 711, C
+64, Multitasking, http://codeforces.com/contest/384/problem/B, 384, B
+65, History, http://codeforces.com/contest/137/problem/C, 137, C
+66, Zuma, http://codeforces.com/contest/607/problem/B, 607, B
+67, Fish Weight, http://codeforces.com/contest/297/problem/B, 297, B
+68, Sereja and Swaps, http://codeforces.com/contest/425/problem/A, 425, A
+69, The Child and Set, http://codeforces.com/contest/437/problem/B, 437, B
+70, Tavas and Karafs, http://codeforces.com/contest/535/problem/C, 535, C
+71, Once Again..., http://codeforces.com/contest/582/problem/B, 582, B
+72, Win or Freeze, http://codeforces.com/contest/150/problem/A, 150, A
+73, More Cowbell, http://codeforces.com/contest/604/problem/B, 604, B
+74, World Tour, http://codeforces.com/contest/666/problem/B, 666, B
+75, Chip 'n Dale Rescue Rangers, http://codeforces.com/contest/590/problem/B, 590, B
+76, Pythagorean Triples, http://codeforces.com/contest/707/problem/C, 707, C
+77, Subsegments, http://codeforces.com/contest/69/problem/E, 69, E
+78, Divisible by Seven, http://codeforces.com/contest/375/problem/A, 375, A
+79, The Two Routes, http://codeforces.com/contest/601/problem/A, 601, A
+80, Lipshitz Sequence, http://codeforces.com/contest/601/problem/B, 601, B
+81, Inna and Sequence , http://codeforces.com/contest/374/problem/D, 374, D
+82, Theseus and labyrinth, http://codeforces.com/contest/676/problem/D, 676, D
+83, Table, http://codeforces.com/contest/232/problem/B, 232, B
+84, Gifts by the List, http://codeforces.com/contest/681/problem/D, 681, D
+85, Fragile Bridges, http://codeforces.com/contest/201/problem/C, 201, C
+86, Minimization, http://codeforces.com/contest/571/problem/B, 571, B
+87, Lengthening Sticks, http://codeforces.com/contest/571/problem/A, 571, A
+88, Sereja and Periods, http://codeforces.com/contest/314/problem/B, 314, B
+89, Anton and Ira, http://codeforces.com/contest/584/problem/E, 584, E
+90, Vika and Segments, http://codeforces.com/contest/610/problem/D, 610, D
+91, Karen and Supermarket, http://codeforces.com/contest/815/problem/C, 815, C
+92, Happy Tree Party, http://codeforces.com/contest/593/problem/D, 593, D
+93, Number Transformation, http://codeforces.com/contest/251/problem/C, 251, C
+94, Invariance of Tree, http://codeforces.com/contest/576/problem/B, 576, B
+95, Little Elephant and Shifts, http://codeforces.com/contest/220/problem/C, 220, C
+96, Queue, http://codeforces.com/contest/353/problem/D, 353, D
+97, Ksenia and Pawns, http://codeforces.com/contest/382/problem/D, 382, D
+98, Table Compression, http://codeforces.com/contest/650/problem/C, 650, C
+99, Petya and Spiders, http://codeforces.com/contest/111/problem/C, 111, C
+100, Free Market, http://codeforces.com/contest/364/problem/B, 364, B
+101, Relay Race, http://codeforces.com/contest/213/problem/C, 213, C
+102, Flawed Flow, http://codeforces.com/contest/269/problem/C, 269, C
+103, Complete The Graph, http://codeforces.com/contest/715/problem/B, 715, B
+104, Coloring Brackets, http://codeforces.com/contest/149/problem/D, 149, D
+105, Ilya and Roads, http://codeforces.com/contest/313/problem/D, 313, D
+106, Lucky Numbers, http://codeforces.com/contest/95/problem/B, 95, B
+107, Compartments, http://codeforces.com/contest/356/problem/C, 356, C
+108, Xenia and Hamming, http://codeforces.com/contest/356/problem/B, 356, B
+109, Little Elephant and Furik and Rubik, http://codeforces.com/contest/204/problem/C, 204, C
+110, Inna and Binary Logic, http://codeforces.com/contest/400/problem/E, 400, E
+111, The Road to Berland is Paved With Good Intentions, http://codeforces.com/contest/228/problem/E, 228, E
+112, Maxim and Restaurant, http://codeforces.com/contest/261/problem/B, 261, B
+113, Spongebob and Squares, http://codeforces.com/contest/599/problem/D, 599, D
+114, The table, http://codeforces.com/contest/226/problem/D, 226, D
+115, Numbers, http://codeforces.com/contest/213/problem/B, 213, B
+116, Vladik and cards, http://codeforces.com/contest/743/problem/E, 743, E
+117, Partial Sums, http://codeforces.com/contest/223/problem/C, 223, C
+118, Points on Plane, http://codeforces.com/contest/576/problem/C, 576, C
+119, Running Track, http://codeforces.com/contest/615/problem/C, 615, C
+120, Alyona and Strings, http://codeforces.com/contest/682/problem/D, 682, D
+121, Famil Door and Brackets, http://codeforces.com/contest/629/problem/C, 629, C
+122, Preparing for the Contest, http://codeforces.com/contest/377/problem/B, 377, B
+123, Strictly Positive Matrix, http://codeforces.com/contest/402/problem/E, 402, E
+124, Compatible Numbers, http://codeforces.com/contest/165/problem/E, 165, E
+125, Love Triangles, http://codeforces.com/contest/553/problem/C, 553, C
+126, Police Patrol, http://codeforces.com/contest/427/problem/E, 427, E
+127, Time to Raid Cowavans, http://codeforces.com/contest/103/problem/D, 103, D
+128, Directed Roads, http://codeforces.com/contest/711/problem/D, 711, D
+129, Money Transfers, http://codeforces.com/contest/675/problem/C, 675, C
+130, Messenger, http://codeforces.com/contest/631/problem/D, 631, D
+131, Mishka and Interesting sum, http://codeforces.com/contest/703/problem/D, 703, D
+132, Two Strings, http://codeforces.com/contest/223/problem/B, 223, B
+133, Persistent Bookcase , http://codeforces.com/contest/707/problem/D, 707, D
+134, Ring Road 2, http://codeforces.com/contest/27/problem/D, 27, D
+135, Lucky Number Representation, http://codeforces.com/contest/354/problem/E, 354, E
+136, Little Elephant and LCM, http://codeforces.com/contest/258/problem/C, 258, C
+137, Superior Periodic Subarrays, http://codeforces.com/contest/582/problem/C, 582, C
+138, Pluses everywhere, http://codeforces.com/contest/520/problem/E, 520, E
+139, Cubes, http://codeforces.com/contest/520/problem/D, 520, D
+140, Friends and Subsequences, http://codeforces.com/contest/689/problem/D, 689, D
+141, Kleofáš and the n-thlon, http://codeforces.com/contest/601/problem/C, 601, C
+142, Mike and Geometry Problem, http://codeforces.com/contest/689/problem/E, 689, E
+143, Lieges of Legendre, http://codeforces.com/contest/603/problem/C, 603, C
+144, Apple Tree, http://codeforces.com/contest/348/problem/B, 348, B
+145, Sonya and Problem Wihtout a Legend, http://codeforces.com/contest/713/problem/C, 713, C
+146, Ant Man, http://codeforces.com/contest/704/problem/B, 704, B
+147, Alyona and towers, http://codeforces.com/contest/739/problem/C, 739, C
+148, Double Happiness, http://codeforces.com/contest/113/problem/C, 113, C
+149, Lovely Matrix, http://codeforces.com/contest/274/problem/D, 274, D
+150, Devu and Flowers, http://codeforces.com/contest/451/problem/E, 451, E
+151, George and Cards, http://codeforces.com/contest/387/problem/E, 387, E
+152, Anya and Cubes, http://codeforces.com/contest/525/problem/E, 525, E
+153, Game on Tree, http://codeforces.com/contest/280/problem/C, 280, C
+154, Garlands, http://codeforces.com/contest/707/problem/E, 707, E
+155, Codeword, http://codeforces.com/contest/666/problem/C, 666, C
+156, Game with Powers, http://codeforces.com/contest/317/problem/D, 317, D
+157, Graph Cutting, http://codeforces.com/contest/405/problem/E, 405, E
+158, Wilbur and Trees, http://codeforces.com/contest/596/problem/D, 596, D
+159, Thwarting Demonstrations, http://codeforces.com/contest/191/problem/E, 191, E
+160, Trains and Statistic, http://codeforces.com/contest/675/problem/E, 675, E
+161, ZS and The Birthday Paradox, http://codeforces.com/contest/711/problem/E, 711, E
+162, Arthur and Brackets, http://codeforces.com/contest/508/problem/E, 508, E
+163, Acyclic Organic Compounds, http://codeforces.com/contest/601/problem/D, 601, D
+164, Dividing Kingdom II, http://codeforces.com/contest/687/problem/D, 687, D
+165, Animals and Puzzle, http://codeforces.com/contest/713/problem/D, 713, D
+166, Splitting the Uniqueness, http://codeforces.com/contest/297/problem/C, 297, C
+167, Curious Array, http://codeforces.com/contest/407/problem/C, 407, C
+168, Igloo Skyscraper, http://codeforces.com/contest/91/problem/E, 91, E
+169, Clearing Up, http://codeforces.com/contest/141/problem/E, 141, E
+170, President's Path, http://codeforces.com/contest/416/problem/E, 416, E
+171, String, http://codeforces.com/contest/123/problem/D, 123, D
+172, Painting Square, http://codeforces.com/contest/300/problem/D, 300, D
+173, Alphabet Permutations, http://codeforces.com/contest/610/problem/E, 610, E
+174, Kefa and Watch, http://codeforces.com/contest/580/problem/E, 580, E
+175, Sereja and Sets, http://codeforces.com/contest/425/problem/E, 425, E
+176, Game with Strings, http://codeforces.com/contest/354/problem/B, 354, B
+177, Clues, http://codeforces.com/contest/156/problem/D, 156, D
+178, Counter Attack, http://codeforces.com/contest/190/problem/E, 190, E
+179, Ilya and Two Numbers, http://codeforces.com/contest/313/problem/E, 313, E
+180, Lucky Country, http://codeforces.com/contest/95/problem/E, 95, E
+181, Interval Cubing, http://codeforces.com/contest/311/problem/D, 311, D
+182, Little Victor and Set, http://codeforces.com/contest/460/problem/D, 460, D
+183, Minimum Modular, http://codeforces.com/contest/303/problem/C, 303, C
+184, Sandy and Nuts, http://codeforces.com/contest/599/problem/E, 599, E
+185, Sereja and Straight Lines, http://codeforces.com/contest/314/problem/D, 314, D
+186, Linear Kingdom Races, http://codeforces.com/contest/115/problem/E, 115, E
+187, Yaroslav and Points, http://codeforces.com/contest/295/problem/E, 295, E
+188, Arpa’s overnight party and Mehrdad’s silent entering, http://codeforces.com/contest/741/problem/C, 741, C
+189, Iahub and Xors, http://codeforces.com/contest/341/problem/D, 341, D
+190, Working routine, http://codeforces.com/contest/706/problem/E, 706, E
+191, Sereja and Sets, http://codeforces.com/contest/367/problem/D, 367, D
+192, Levko and Strings, http://codeforces.com/contest/360/problem/C, 360, C
+193, Product Sum, http://codeforces.com/contest/631/problem/E, 631, E
+194, Little Elephant and Tree, http://codeforces.com/contest/258/problem/E, 258, E
+195, Maze, http://codeforces.com/contest/123/problem/E, 123, E
+196, Blood Cousins Return, http://codeforces.com/contest/246/problem/E, 246, E
+197, Drazil and Morning Exercise, http://codeforces.com/contest/516/problem/D, 516, D
+198, Jeff and Removing Periods, http://codeforces.com/contest/351/problem/D, 351, D
+199, Bags and Coins, http://codeforces.com/contest/356/problem/D, 356, D
+200, Choosing Subtree is Fun, http://codeforces.com/contest/372/problem/D, 372, D

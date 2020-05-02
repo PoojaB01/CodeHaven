@@ -30,3 +30,6 @@ class compare_contest_form(forms.Form):
     user_2 = forms.CharField()
     contest_code = forms.CharField()
 
+class ladder_form(forms.Form):
+    user = forms.CharField()
+    number = forms.IntegerField()

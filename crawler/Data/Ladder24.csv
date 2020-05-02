@@ -1,0 +1,201 @@
+SNo,QueName,QueLink,Contest,QueType 
+1, Police Recruits, http://codeforces.com/contest/427/problem/A, 427, A
+2, Spit Problem, http://codeforces.com/contest/29/problem/A, 29, A
+3, Reconnaissance, http://codeforces.com/contest/32/problem/A, 32, A
+4, Playing with Dice, http://codeforces.com/contest/378/problem/A, 378, A
+5, Line to Cashier, http://codeforces.com/contest/408/problem/A, 408, A
+6, GukiZ and Contest, http://codeforces.com/contest/551/problem/A, 551, A
+7, Soldier and Bananas, http://codeforces.com/contest/546/problem/A, 546, A
+8, Games, http://codeforces.com/contest/268/problem/A, 268, A
+9, Restoring Password, http://codeforces.com/contest/94/problem/A, 94, A
+10, Soroban, http://codeforces.com/contest/363/problem/A, 363, A
+11, Greg's Workout, http://codeforces.com/contest/255/problem/A, 255, A
+12, LLPS, http://codeforces.com/contest/202/problem/A, 202, A
+13, Colorful Stones (Simplified Edition), http://codeforces.com/contest/265/problem/A, 265, A
+14, Roma and Lucky Numbers, http://codeforces.com/contest/262/problem/A, 262, A
+15, Toy Army, http://codeforces.com/contest/84/problem/A, 84, A
+16, Buggy Sorting, http://codeforces.com/contest/246/problem/A, 246, A
+17, Queue on Bus Stop, http://codeforces.com/contest/435/problem/A, 435, A
+18, Amr and Music, http://codeforces.com/contest/507/problem/A, 507, A
+19, Table, http://codeforces.com/contest/359/problem/A, 359, A
+20, A and B and Chess, http://codeforces.com/contest/519/problem/A, 519, A
+21, Valera and Plates, http://codeforces.com/contest/369/problem/A, 369, A
+22, Exams, http://codeforces.com/contest/194/problem/A, 194, A
+23, Ilya and Diplomas, http://codeforces.com/contest/557/problem/A, 557, A
+24, Help Vasilisa the Wise 2, http://codeforces.com/contest/143/problem/A, 143, A
+25, George and Sleep, http://codeforces.com/contest/387/problem/A, 387, A
+26, Sereja and Coat Rack, http://codeforces.com/contest/368/problem/A, 368, A
+27, Squares, http://codeforces.com/contest/263/problem/B, 263, B
+28, Lecture, http://codeforces.com/contest/499/problem/B, 499, B
+29, Valera and Antique Items, http://codeforces.com/contest/441/problem/A, 441, A
+30, Card Game, http://codeforces.com/contest/106/problem/A, 106, A
+31, Arrays, http://codeforces.com/contest/572/problem/A, 572, A
+32, Buttons, http://codeforces.com/contest/268/problem/B, 268, B
+33, Sinking Ship, http://codeforces.com/contest/63/problem/A, 63, A
+34, Lucky Ticket, http://codeforces.com/contest/146/problem/A, 146, A
+35, Kefa and First Steps, http://codeforces.com/contest/580/problem/A, 580, A
+36, Lucky String, http://codeforces.com/contest/110/problem/B, 110, B
+37, Vasya and Digital Root, http://codeforces.com/contest/355/problem/A, 355, A
+38, Joysticks, http://codeforces.com/contest/651/problem/A, 651, A
+39, Case of the Zeros and Ones, http://codeforces.com/contest/556/problem/A, 556, A
+40, Little Frog, http://codeforces.com/contest/53/problem/C, 53, C
+41, Prison Transfer, http://codeforces.com/contest/427/problem/B, 427, B
+42, Bear and Raspberry, http://codeforces.com/contest/385/problem/A, 385, A
+43, Palindromic Times, http://codeforces.com/contest/108/problem/A, 108, A
+44, Calculating Function, http://codeforces.com/contest/486/problem/A, 486, A
+45, Currency System in Geraldion, http://codeforces.com/contest/560/problem/A, 560, A
+46, Game With Sticks, http://codeforces.com/contest/451/problem/A, 451, A
+47, Roadside Trees (Simplified Edition), http://codeforces.com/contest/265/problem/B, 265, B
+48, Game Outcome, http://codeforces.com/contest/157/problem/A, 157, A
+49, Ciel and Dancing, http://codeforces.com/contest/322/problem/A, 322, A
+50, Lucky Substring, http://codeforces.com/contest/122/problem/B, 122, B
+51, Group of Students, http://codeforces.com/contest/357/problem/A, 357, A
+52, Drazil and Date, http://codeforces.com/contest/515/problem/A, 515, A
+53, Valera and X, http://codeforces.com/contest/404/problem/A, 404, A
+54, Petya and Countryside, http://codeforces.com/contest/66/problem/B, 66, B
+55, Inna and Choose Options, http://codeforces.com/contest/400/problem/A, 400, A
+56, Trace, http://codeforces.com/contest/157/problem/B, 157, B
+57, Little Elephant and Magic Square, http://codeforces.com/contest/259/problem/B, 259, B
+58, Pasha and Pixels, http://codeforces.com/contest/508/problem/A, 508, A
+59, Eugeny and Play List, http://codeforces.com/contest/302/problem/B, 302, B
+60, Simple Game, http://codeforces.com/contest/570/problem/B, 570, B
+61, Vanya and Books, http://codeforces.com/contest/552/problem/B, 552, B
+62, Appleman and Toastman, http://codeforces.com/contest/461/problem/A, 461, A
+63, Bear and Strings, http://codeforces.com/contest/385/problem/B, 385, B
+64, Misha and Changing Handles, http://codeforces.com/contest/501/problem/B, 501, B
+65, Tiling with Hexagons, http://codeforces.com/contest/216/problem/A, 216, A
+66, Dima and To-do List, http://codeforces.com/contest/366/problem/B, 366, B
+67, Vitaliy and Pie, http://codeforces.com/contest/525/problem/A, 525, A
+68, Xor-tree, http://codeforces.com/contest/429/problem/A, 429, A
+69, Snow Footprints, http://codeforces.com/contest/298/problem/A, 298, A
+70, Vasya and Football, http://codeforces.com/contest/493/problem/A, 493, A
+71, Tournament, http://codeforces.com/contest/27/problem/B, 27, B
+72, Lala Land and Apple Trees, http://codeforces.com/contest/558/problem/A, 558, A
+73, Chocolate, http://codeforces.com/contest/617/problem/B, 617, B
+74, Rook| Bishop and King, http://codeforces.com/contest/370/problem/A, 370, A
+75, Lucky Tickets, http://codeforces.com/contest/43/problem/C, 43, C
+76, Bar, http://codeforces.com/contest/56/problem/A, 56, A
+77, Case of Fake Numbers, http://codeforces.com/contest/556/problem/B, 556, B
+78, Sockets, http://codeforces.com/contest/257/problem/A, 257, A
+79, War of the Corporations, http://codeforces.com/contest/625/problem/B, 625, B
+80, Diverse Permutation, http://codeforces.com/contest/482/problem/A, 482, A
+81, Garland, http://codeforces.com/contest/408/problem/B, 408, B
+82, Binary Number, http://codeforces.com/contest/92/problem/B, 92, B
+83, Walking in the Rain, http://codeforces.com/contest/192/problem/B, 192, B
+84, Good Number, http://codeforces.com/contest/365/problem/A, 365, A
+85, Replacement, http://codeforces.com/contest/135/problem/A, 135, A
+86, Little Xor, http://codeforces.com/contest/252/problem/A, 252, A
+87, Strings of Power, http://codeforces.com/contest/318/problem/B, 318, B
+88, Chewba?ca and Number, http://codeforces.com/contest/514/problem/A, 514, A
+89, Little Elephant and Numbers, http://codeforces.com/contest/221/problem/B, 221, B
+90, Lucky Conversion, http://codeforces.com/contest/145/problem/A, 145, A
+91, Chat Online, http://codeforces.com/contest/469/problem/B, 469, B
+92, Combination, http://codeforces.com/contest/155/problem/B, 155, B
+93, Levko and Permutation, http://codeforces.com/contest/361/problem/B, 361, B
+94, Sorting Railway Cars, http://codeforces.com/contest/605/problem/A, 605, A
+95, Vasya and Petya's Game, http://codeforces.com/contest/576/problem/A, 576, A
+96, Coins, http://codeforces.com/contest/58/problem/B, 58, B
+97, Bear and Elections, http://codeforces.com/contest/574/problem/A, 574, A
+98, A and B and Compilation Errors, http://codeforces.com/contest/519/problem/B, 519, B
+99, Mashmokh and Numbers, http://codeforces.com/contest/414/problem/A, 414, A
+100, Unary, http://codeforces.com/contest/133/problem/B, 133, B
+101, Football Kit, http://codeforces.com/contest/432/problem/B, 432, B
+102, Devu| the Dumb Guy, http://codeforces.com/contest/439/problem/B, 439, B
+103, The Wall, http://codeforces.com/contest/340/problem/A, 340, A
+104, Watchmen, http://codeforces.com/contest/650/problem/A, 650, A
+105, Petya and Staircases, http://codeforces.com/contest/362/problem/B, 362, B
+106, Students and Shoelaces, http://codeforces.com/contest/129/problem/B, 129, B
+107, Bear and Poker, http://codeforces.com/contest/573/problem/A, 573, A
+108, Permutation, http://codeforces.com/contest/359/problem/B, 359, B
+109, Cifera, http://codeforces.com/contest/114/problem/A, 114, A
+110, The Child and Homework, http://codeforces.com/contest/437/problem/A, 437, A
+111, Fedor and New Game, http://codeforces.com/contest/467/problem/B, 467, B
+112, Prizes| Prizes| more Prizes, http://codeforces.com/contest/208/problem/D, 208, D
+113, Valuable Resources, http://codeforces.com/contest/485/problem/B, 485, B
+114, Anton and currency you all know, http://codeforces.com/contest/508/problem/B, 508, B
+115, Fox and Number Game, http://codeforces.com/contest/389/problem/A, 389, A
+116, Art Union, http://codeforces.com/contest/416/problem/B, 416, B
+117, A and B and Team Training, http://codeforces.com/contest/519/problem/C, 519, C
+118, Drazil and Factorial, http://codeforces.com/contest/515/problem/C, 515, C
+119, Random Teams, http://codeforces.com/contest/478/problem/B, 478, B
+120, Secret Combination, http://codeforces.com/contest/496/problem/B, 496, B
+121, Tree Construction, http://codeforces.com/contest/675/problem/D, 675, D
+122, Report, http://codeforces.com/contest/631/problem/C, 631, C
+123, Cardiogram, http://codeforces.com/contest/435/problem/C, 435, C
+124, Order Book, http://codeforces.com/contest/572/problem/B, 572, B
+125, Dima and Text Messages, http://codeforces.com/contest/358/problem/B, 358, B
+126, Division into Teams, http://codeforces.com/contest/149/problem/C, 149, C
+127, Predict Outcome of the Game, http://codeforces.com/contest/451/problem/C, 451, C
+128, School Marks, http://codeforces.com/contest/540/problem/B, 540, B
+129, Biridian Forest, http://codeforces.com/contest/329/problem/B, 329, B
+130, Chris and Magic Square, http://codeforces.com/contest/711/problem/B, 711, B
+131, Xenia and Spies, http://codeforces.com/contest/342/problem/B, 342, B
+132, ZgukistringZ, http://codeforces.com/contest/551/problem/B, 551, B
+133, Unusual Product, http://codeforces.com/contest/405/problem/C, 405, C
+134, Pyramid of Glasses, http://codeforces.com/contest/676/problem/B, 676, B
+135, Mashmokh and Tokens, http://codeforces.com/contest/415/problem/B, 415, B
+136, Alternating Current, http://codeforces.com/contest/343/problem/B, 343, B
+137, Primes on Interval, http://codeforces.com/contest/237/problem/C, 237, C
+138, Memory and De-Evolution, http://codeforces.com/contest/712/problem/C, 712, C
+139, Vasya and Wrestling, http://codeforces.com/contest/493/problem/B, 493, B
+140, GCD Table, http://codeforces.com/contest/582/problem/A, 582, A
+141, Valera and Contest, http://codeforces.com/contest/369/problem/B, 369, B
+142, Approximating a Constant Range, http://codeforces.com/contest/602/problem/B, 602, B
+143, Heap Operations, http://codeforces.com/contest/681/problem/C, 681, C
+144, Alice and Bob, http://codeforces.com/contest/346/problem/A, 346, A
+145, Undoubtedly Lucky Numbers, http://codeforces.com/contest/244/problem/B, 244, B
+146, Gerald's Hexagon, http://codeforces.com/contest/559/problem/A, 559, A
+147, Vasya and the Bus, http://codeforces.com/contest/190/problem/A, 190, A
+148, Modular Equations, http://codeforces.com/contest/495/problem/B, 495, B
+149, Dima and Sequence, http://codeforces.com/contest/272/problem/B, 272, B
+150, Kolya and Tanya , http://codeforces.com/contest/584/problem/B, 584, B
+151, Marina and Vasya, http://codeforces.com/contest/584/problem/C, 584, C
+152, More Cowbell, http://codeforces.com/contest/604/problem/B, 604, B
+153, Quiz, http://codeforces.com/contest/337/problem/C, 337, C
+154, Hard problem, http://codeforces.com/contest/706/problem/C, 706, C
+155, Bits, http://codeforces.com/contest/484/problem/A, 484, A
+156, Dima and Lisa, http://codeforces.com/contest/584/problem/D, 584, D
+157, Little Elephant and Sorting, http://codeforces.com/contest/205/problem/B, 205, B
+158, Alyona and the Tree, http://codeforces.com/contest/682/problem/C, 682, C
+159, Guess Your Way Out!, http://codeforces.com/contest/507/problem/C, 507, C
+160, Parity Game, http://codeforces.com/contest/297/problem/A, 297, A
+161, Robbers' watch, http://codeforces.com/contest/685/problem/A, 685, A
+162, DZY Loves Chemistry, http://codeforces.com/contest/445/problem/B, 445, B
+163, Chilly Willy, http://codeforces.com/contest/248/problem/B, 248, B
+164, Photographer, http://codeforces.com/contest/203/problem/C, 203, C
+165, The Child and Set, http://codeforces.com/contest/437/problem/B, 437, B
+166, Find Maximum, http://codeforces.com/contest/353/problem/C, 353, C
+167, Trees in a Row, http://codeforces.com/contest/402/problem/B, 402, B
+168, Cows and Primitive Roots, http://codeforces.com/contest/284/problem/A, 284, A
+169, Mike and Shortcuts, http://codeforces.com/contest/689/problem/B, 689, B
+170, Pasha and String, http://codeforces.com/contest/525/problem/B, 525, B
+171, Soldier and Cards, http://codeforces.com/contest/546/problem/C, 546, C
+172, Pasha and Tea, http://codeforces.com/contest/557/problem/B, 557, B
+173, Vasya and String, http://codeforces.com/contest/676/problem/C, 676, C
+174, Mike and Fun, http://codeforces.com/contest/548/problem/B, 548, B
+175, Non-square Equation, http://codeforces.com/contest/233/problem/B, 233, B
+176, Ilya and Sticks, http://codeforces.com/contest/525/problem/C, 525, C
+177, Gerald is into Art, http://codeforces.com/contest/560/problem/B, 560, B
+178, Guess a number!, http://codeforces.com/contest/416/problem/A, 416, A
+179, Queue, http://codeforces.com/contest/545/problem/D, 545, D
+180, Han Solo and Lazer Gun, http://codeforces.com/contest/514/problem/B, 514, B
+181, Bear and Three Musketeers, http://codeforces.com/contest/574/problem/B, 574, B
+182, History, http://codeforces.com/contest/137/problem/C, 137, C
+183, Amr and Pins, http://codeforces.com/contest/507/problem/B, 507, B
+184, Burning Midnight Oil, http://codeforces.com/contest/165/problem/B, 165, B
+185, Dreamoon and Sums, http://codeforces.com/contest/476/problem/C, 476, C
+186, Replacement, http://codeforces.com/contest/570/problem/C, 570, C
+187, Preparing Olympiad, http://codeforces.com/contest/550/problem/B, 550, B
+188, OR in Matrix, http://codeforces.com/contest/486/problem/B, 486, B
+189, Amr and The Large Array, http://codeforces.com/contest/558/problem/B, 558, B
+190, Soldier and Badges, http://codeforces.com/contest/546/problem/B, 546, B
+191, Two Substrings, http://codeforces.com/contest/550/problem/A, 550, A
+192, k-Multiple Free Set, http://codeforces.com/contest/274/problem/A, 274, A
+193, Kefa and Company, http://codeforces.com/contest/580/problem/B, 580, B
+194, Woodcutters, http://codeforces.com/contest/545/problem/C, 545, C
+195, Kefa and Park, http://codeforces.com/contest/580/problem/C, 580, C
+196, Money Transfers, http://codeforces.com/contest/675/problem/C, 675, C
+197, Surrounded, http://codeforces.com/contest/190/problem/B, 190, B
+198, Amr and Chemistry, http://codeforces.com/contest/558/problem/C, 558, C
+199, Modulo Sum, http://codeforces.com/contest/577/problem/B, 577, B
+200, Kefa and Dishes, http://codeforces.com/contest/580/problem/D, 580, D

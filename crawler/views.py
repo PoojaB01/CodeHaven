@@ -4,6 +4,7 @@ import json
 import datetime
 from datetime import date
 from .crawlers import *
+from .status import *
 
 
 def index(request):
@@ -99,3 +100,15 @@ def rating_change(request):
         return render(request, 'crawler/rating_change.html',{'form' : form, 'change' : change})
     form = rating_change_calculator()
     return render(request, 'crawler/rating_change.html',{'form':form})
+
+def ladder(request):
+    if request.method == 'POST':
+        form =ladder_form(request.POST)
+        if form.is_valid():
+            user = form.cleaned_data['user']
+            number = form.cleaned_data['number']
+            result = get_ladder(str(user), str(number))
+            #print(code_text)
+            return render(request, 'crawler/ladder.html', {'form': form, 'result': result})
+    form = ladder_form()
+    return render(request, 'crawler/ladder.html',{'form': form})

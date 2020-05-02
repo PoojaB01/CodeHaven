@@ -9,4 +9,5 @@ urlpatterns = [
     re_path(r'^compare_contest/$', views.contest_comparator, name="contest_comparator"),
     re_path(r'^contests/$', views.contests, name="contests"),
     re_path(r'^rating_change', views.rating_change, name="rating_change"),
+    re_path(r'^ladder', views.ladder, name="ladder"),
 ]

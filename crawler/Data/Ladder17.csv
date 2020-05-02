@@ -1,0 +1,101 @@
+SNo,QueName,QueLink,Contest,QueType 
+1, Anton and Letters, http://codeforces.com/contest/443/problem/A, 443, A
+2, Way Too Long Words, http://codeforces.com/contest/71/problem/A, 71, A
+3, Young Physicist, http://codeforces.com/contest/69/problem/A, 69, A
+4, Coder, http://codeforces.com/contest/384/problem/A, 384, A
+5, Collecting Beats is Fun, http://codeforces.com/contest/373/problem/A, 373, A
+6, Fox and Cross, http://codeforces.com/contest/389/problem/B, 389, B
+7, Archer, http://codeforces.com/contest/312/problem/B, 312, B
+8, Sereja and Suffixes, http://codeforces.com/contest/368/problem/B, 368, B
+9, Ladder, http://codeforces.com/contest/279/problem/C, 279, C
+10, Color the Fence, http://codeforces.com/contest/349/problem/B, 349, B
+11, Vasya and Robot, http://codeforces.com/contest/354/problem/A, 354, A
+12, Fools and Roads, http://codeforces.com/contest/191/problem/C, 191, C
+13, Dima and Hares, http://codeforces.com/contest/358/problem/D, 358, D
+14, Xenia and Weights, http://codeforces.com/contest/339/problem/C, 339, C
+15, Inna and Dima, http://codeforces.com/contest/374/problem/C, 374, C
+16, Cows and Sequence, http://codeforces.com/contest/283/problem/A, 283, A
+17, Psychos in a Line, http://codeforces.com/contest/319/problem/B, 319, B
+18, Greg and Graph, http://codeforces.com/contest/295/problem/B, 295, B
+19, Number of Ways, http://codeforces.com/contest/466/problem/C, 466, C
+20, Working out, http://codeforces.com/contest/429/problem/B, 429, B
+21, Read Time, http://codeforces.com/contest/343/problem/C, 343, C
+22, Cow Program, http://codeforces.com/contest/283/problem/B, 283, B
+23, LCM Challenge, http://codeforces.com/contest/235/problem/A, 235, A
+24, Bubble Sort Graph, http://codeforces.com/contest/340/problem/D, 340, D
+25, Beautiful Numbers, http://codeforces.com/contest/300/problem/C, 300, C
+26, Counting Kangaroos is Fun, http://codeforces.com/contest/372/problem/A, 372, A
+27, Little Girl and Maximum Sum, http://codeforces.com/contest/276/problem/C, 276, C
+28, Little Girl and Maximum XOR, http://codeforces.com/contest/276/problem/D, 276, D
+29, No to Palindromes!, http://codeforces.com/contest/464/problem/A, 464, A
+30, George and Job, http://codeforces.com/contest/467/problem/C, 467, C
+31, Matrix, http://codeforces.com/contest/364/problem/A, 364, A
+32, Round Table Knights, http://codeforces.com/contest/71/problem/C, 71, C
+33, Caesar's Legions, http://codeforces.com/contest/118/problem/D, 118, D
+34, Zero Tree, http://codeforces.com/contest/274/problem/B, 274, B
+35, Maximum Submatrix 2, http://codeforces.com/contest/375/problem/B, 375, B
+36, Password, http://codeforces.com/contest/126/problem/B, 126, B
+37, Book of Evil, http://codeforces.com/contest/337/problem/D, 337, D
+38, Lucky Tree, http://codeforces.com/contest/109/problem/C, 109, C
+39, Jzzhu and Cities, http://codeforces.com/contest/449/problem/B, 449, B
+40, Ciel and Duel, http://codeforces.com/contest/321/problem/B, 321, B
+41, Array and Operations, http://codeforces.com/contest/498/problem/C, 498, C
+42, Increase Sequence, http://codeforces.com/contest/466/problem/D, 466, D
+43, Choosing Capital for Treeland, http://codeforces.com/contest/219/problem/D, 219, D
+44, Fox and Minimal path, http://codeforces.com/contest/388/problem/B, 388, B
+45, Kalila and Dimna in the Logging Industry, http://codeforces.com/contest/319/problem/C, 319, C
+46, Vessels, http://codeforces.com/contest/371/problem/D, 371, D
+47, Greg and Friends, http://codeforces.com/contest/295/problem/C, 295, C
+48, Sereja and the Arrangement of Numbers, http://codeforces.com/contest/367/problem/C, 367, C
+49, Super M, http://codeforces.com/contest/592/problem/D, 592, D
+50, Count Good Substrings, http://codeforces.com/contest/451/problem/D, 451, D
+51, Roman and Numbers, http://codeforces.com/contest/401/problem/D, 401, D
+52, Dima and Bacteria, http://codeforces.com/contest/400/problem/D, 400, D
+53, Civilization, http://codeforces.com/contest/455/problem/C, 455, C
+54, Enemy is weak, http://codeforces.com/contest/61/problem/E, 61, E
+55, Dima and Salad, http://codeforces.com/contest/366/problem/C, 366, C
+56, Little Elephant and Array, http://codeforces.com/contest/220/problem/B, 220, B
+57, Prime Number, http://codeforces.com/contest/359/problem/C, 359, C
+58, Prefixes and Suffixes, http://codeforces.com/contest/432/problem/D, 432, D
+59, A Lot of Games, http://codeforces.com/contest/455/problem/B, 455, B
+60, Ciel the Commander, http://codeforces.com/contest/321/problem/C, 321, C
+61, Painting Fence, http://codeforces.com/contest/448/problem/C, 448, C
+62, Breaking Good, http://codeforces.com/contest/507/problem/E, 507, E
+63, Eternal Victory, http://codeforces.com/contest/61/problem/D, 61, D
+64, XOR on Segment, http://codeforces.com/contest/242/problem/E, 242, E
+65, Sereja and Subsequences, http://codeforces.com/contest/314/problem/C, 314, C
+66, Levko and Array, http://codeforces.com/contest/360/problem/B, 360, B
+67, Gargari and Permutations, http://codeforces.com/contest/463/problem/D, 463, D
+68, Watching Fireworks is Fun, http://codeforces.com/contest/372/problem/C, 372, C
+69, Valid Sets, http://codeforces.com/contest/486/problem/D, 486, D
+70, Pashmak and Parmida's problem, http://codeforces.com/contest/459/problem/D, 459, D
+71, Maximum Value, http://codeforces.com/contest/484/problem/B, 484, B
+72, Pashmak and Graph, http://codeforces.com/contest/459/problem/E, 459, E
+73, Fox and Card Game, http://codeforces.com/contest/388/problem/C, 388, C
+74, Strip, http://codeforces.com/contest/487/problem/B, 487, B
+75, Propagating tree, http://codeforces.com/contest/383/problem/C, 383, C
+76, Sausage Maximization, http://codeforces.com/contest/282/problem/E, 282, E
+77, Sereja ans Anagrams, http://codeforces.com/contest/367/problem/B, 367, B
+78, Good Substrings, http://codeforces.com/contest/271/problem/D, 271, D
+79, Appleman and Tree, http://codeforces.com/contest/461/problem/B, 461, B
+80, MUH and Cube Walls, http://codeforces.com/contest/471/problem/D, 471, D
+81, Pair of Numbers, http://codeforces.com/contest/359/problem/D, 359, D
+82, Sereja and Brackets, http://codeforces.com/contest/380/problem/C, 380, C
+83, Water Tree, http://codeforces.com/contest/343/problem/D, 343, D
+84, Antimatter, http://codeforces.com/contest/383/problem/D, 383, D
+85, LIS of Sequence, http://codeforces.com/contest/486/problem/E, 486, E
+86, The Maths Lecture, http://codeforces.com/contest/507/problem/D, 507, D
+87, Number Transformation II, http://codeforces.com/contest/346/problem/C, 346, C
+88, Fools and Foolproof Roads, http://codeforces.com/contest/362/problem/D, 362, D
+89, Lucky Queries, http://codeforces.com/contest/145/problem/E, 145, E
+90, Caisa and Tree, http://codeforces.com/contest/463/problem/E, 463, E
+91, Valera and Fools, http://codeforces.com/contest/369/problem/D, 369, D
+92, Blood Cousins, http://codeforces.com/contest/208/problem/E, 208, E
+93, Information Graph, http://codeforces.com/contest/466/problem/E, 466, E
+94, Vasya and Beautiful Arrays, http://codeforces.com/contest/354/problem/C, 354, C
+95, Little Girl and Problem on Trees, http://codeforces.com/contest/276/problem/E, 276, E
+96, Valera and Queries, http://codeforces.com/contest/369/problem/E, 369, E
+97, Yaroslav and Divisors, http://codeforces.com/contest/301/problem/D, 301, D
+98, Shaass the Great, http://codeforces.com/contest/294/problem/E, 294, E
+99, Tree and Queries, http://codeforces.com/contest/375/problem/D, 375, D
+100, Xenia and Tree, http://codeforces.com/contest/342/problem/E, 342, E

@@ -1,0 +1,101 @@
+SNo,QueName,QueLink,Contest,QueType 
+1, Pangram, http://codeforces.com/contest/520/problem/A, 520, A
+2, Fox And Snake, http://codeforces.com/contest/510/problem/A, 510, A
+3, Insomnia cure, http://codeforces.com/contest/148/problem/A, 148, A
+4, Watching a movie, http://codeforces.com/contest/499/problem/A, 499, A
+5, Dreamoon and WiFi, http://codeforces.com/contest/476/problem/B, 476, B
+6, Playing with Paper, http://codeforces.com/contest/527/problem/A, 527, A
+7, Link/Cut Tree, http://codeforces.com/contest/614/problem/A, 614, A
+8, Crazy Town, http://codeforces.com/contest/498/problem/A, 498, A
+9, Mr. Kitayuta| the Treasure Hunter, http://codeforces.com/contest/505/problem/C, 505, C
+10, Tennis Game, http://codeforces.com/contest/496/problem/D, 496, D
+11, Number of Ways, http://codeforces.com/contest/466/problem/C, 466, C
+12, Error Correct System, http://codeforces.com/contest/527/problem/B, 527, B
+13, Fight the Monster, http://codeforces.com/contest/487/problem/A, 487, A
+14, Skills, http://codeforces.com/contest/613/problem/B, 613, B
+15, Clique Problem, http://codeforces.com/contest/527/problem/D, 527, D
+16, Glass Carving, http://codeforces.com/contest/527/problem/C, 527, C
+17, Edo and Magnets, http://codeforces.com/contest/594/problem/C, 594, C
+18, Appleman and a Sheet of Paper, http://codeforces.com/contest/461/problem/C, 461, C
+19, Numbers, http://codeforces.com/contest/128/problem/D, 128, D
+20, Greg and Friends, http://codeforces.com/contest/295/problem/C, 295, C
+21, Watto and Mechanism, http://codeforces.com/contest/514/problem/C, 514, C
+22, Jeff and Permutation, http://codeforces.com/contest/351/problem/E, 351, E
+23, Sereja and Brackets, http://codeforces.com/contest/380/problem/C, 380, C
+24, Freelancer's Dreams, http://codeforces.com/contest/605/problem/C, 605, C
+25, Hexagons, http://codeforces.com/contest/615/problem/E, 615, E
+26, Valid Sets, http://codeforces.com/contest/486/problem/D, 486, D
+27, Multipliers, http://codeforces.com/contest/615/problem/D, 615, D
+28, Top Secret Task, http://codeforces.com/contest/590/problem/D, 590, D
+29, Characteristics of Rectangles, http://codeforces.com/contest/333/problem/D, 333, D
+30, Tavas and Malekas, http://codeforces.com/contest/535/problem/D, 535, D
+31, Destroying Roads, http://codeforces.com/contest/543/problem/B, 543, B
+32, Mr. Kitayuta's Technology, http://codeforces.com/contest/505/problem/D, 505, D
+33, Maximum Value, http://codeforces.com/contest/484/problem/B, 484, B
+34, Three States, http://codeforces.com/contest/590/problem/C, 590, C
+35, Antimatter, http://codeforces.com/contest/383/problem/D, 383, D
+36, Dreamoon and Strings, http://codeforces.com/contest/476/problem/E, 476, E
+37, Necklace, http://codeforces.com/contest/613/problem/C, 613, C
+38, Number Transformation II, http://codeforces.com/contest/346/problem/C, 346, C
+39, Tricky Function, http://codeforces.com/contest/429/problem/D, 429, D
+40, REQ, http://codeforces.com/contest/594/problem/D, 594, D
+41, Soldier and Traveling, http://codeforces.com/contest/546/problem/E, 546, E
+42, Board Game, http://codeforces.com/contest/605/problem/D, 605, D
+43, Jzzhu and Numbers, http://codeforces.com/contest/449/problem/D, 449, D
+44, Name That Tune, http://codeforces.com/contest/498/problem/B, 498, B
+45, Zip-line, http://codeforces.com/contest/650/problem/D, 650, D
+46, Nudist Beach, http://codeforces.com/contest/553/problem/D, 553, D
+47, Mr. Kitayuta's Colorful Graph, http://codeforces.com/contest/506/problem/D, 506, D
+48, Fox And Dinner, http://codeforces.com/contest/510/problem/E, 510, E
+49, Traffic Jams in the Land, http://codeforces.com/contest/498/problem/D, 498, D
+50, Mike and Frog, http://codeforces.com/contest/547/problem/A, 547, A
+51, Prefix Product Sequence, http://codeforces.com/contest/487/problem/C, 487, C
+52, Road Improvement, http://codeforces.com/contest/543/problem/D, 543, D
+53, Ann and Half-Palindrome, http://codeforces.com/contest/557/problem/E, 557, E
+54, Tanya and Password, http://codeforces.com/contest/508/problem/D, 508, D
+55, Tree and Queries, http://codeforces.com/contest/375/problem/D, 375, D
+56, Cats Transport, http://codeforces.com/contest/311/problem/B, 311, B
+57, Greg and Caves, http://codeforces.com/contest/295/problem/D, 295, D
+58, Jzzhu and Apples, http://codeforces.com/contest/449/problem/C, 449, C
+59, Developing Game, http://codeforces.com/contest/377/problem/D, 377, D
+60, Fuzzy Search, http://codeforces.com/contest/528/problem/D, 528, D
+61, Case of a Top Secret, http://codeforces.com/contest/555/problem/D, 555, D
+62, CNF 2, http://codeforces.com/contest/571/problem/C, 571, C
+63, GukiZ and GukiZiana, http://codeforces.com/contest/551/problem/E, 551, E
+64, Arthur and Walls, http://codeforces.com/contest/525/problem/D, 525, D
+65, Kingdom and its Cities, http://codeforces.com/contest/613/problem/D, 613, D
+66, Tavas and Pashmaks, http://codeforces.com/contest/535/problem/E, 535, E
+67, Data Center Drama, http://codeforces.com/contest/527/problem/E, 527, E
+68, Hack it!, http://codeforces.com/contest/468/problem/C, 468, C
+69, Remembering Strings, http://codeforces.com/contest/543/problem/C, 543, C
+70, Kindergarten, http://codeforces.com/contest/484/problem/D, 484, D
+71, DZY Loves Planting, http://codeforces.com/contest/444/problem/E, 444, E
+72, Tavas in Kansas, http://codeforces.com/contest/536/problem/D, 536, D
+73, Intergalaxy Trips, http://codeforces.com/contest/605/problem/E, 605, E
+74, Largest Submatrix 3, http://codeforces.com/contest/407/problem/D, 407, D
+75, Serega and Fun, http://codeforces.com/contest/455/problem/D, 455, D
+76, Sign on Fence, http://codeforces.com/contest/484/problem/E, 484, E
+77, Ciel and Gondolas, http://codeforces.com/contest/321/problem/E, 321, E
+78, Sign Posts, http://codeforces.com/contest/568/problem/D, 568, D
+79, Positions in Permutations, http://codeforces.com/contest/285/problem/E, 285, E
+80, Mike and Friends, http://codeforces.com/contest/547/problem/E, 547, E
+81, Appleman and Complicated Task, http://codeforces.com/contest/461/problem/D, 461, D
+82, Stairs and Lines, http://codeforces.com/contest/498/problem/E, 498, E
+83, Helping People, http://codeforces.com/contest/494/problem/C, 494, C
+84, Birthday, http://codeforces.com/contest/494/problem/D, 494, D
+85, Dreamoon and Binary, http://codeforces.com/contest/477/problem/D, 477, D
+86, Conveyor Belts, http://codeforces.com/contest/487/problem/D, 487, D
+87, Mr. Kitayuta vs. Bamboos, http://codeforces.com/contest/505/problem/E, 505, E
+88, A Museum Robbery, http://codeforces.com/contest/601/problem/E, 601, E
+89, Fox And Travelling, http://codeforces.com/contest/512/problem/D, 512, D
+90, Little Elephant and Broken Sorting, http://codeforces.com/contest/258/problem/D, 258, D
+91, Mike and Fish, http://codeforces.com/contest/547/problem/D, 547, D
+92, Strange Sorting, http://codeforces.com/contest/484/problem/C, 484, C
+93, Case of Computer Network, http://codeforces.com/contest/555/problem/E, 555, E
+94, Shop, http://codeforces.com/contest/521/problem/D, 521, D
+95, Gerald and Path, http://codeforces.com/contest/559/problem/E, 559, E
+96, Tavas on the Path, http://codeforces.com/contest/536/problem/E, 536, E
+97, Polo the Penguin and Lucky Numbers, http://codeforces.com/contest/288/problem/E, 288, E
+98, Ghd, http://codeforces.com/contest/364/problem/D, 364, D
+99, Warrior and Archer, http://codeforces.com/contest/594/problem/A, 594, A
+100, Birthday, http://codeforces.com/contest/590/problem/E, 590, E
